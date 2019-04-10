@@ -1,0 +1,5 @@
+ ___                         ___ ___ 
+| _ \_____ _____ _ _ ___ ___|_ _| _ \
+|   / -_) V / -_) '_(_-</ -_)| ||  _/
+|_|_\___|\_/\___|_| /__/\___|___|_|  
+Perform a reverse IP lookup to find all A records associated with an IP address. The results can pinpoint virtual hosts being served from a web server. Information gathered can be used to expand the attack surface when identifying vulnerabilities on a server.

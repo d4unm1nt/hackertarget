@@ -1,0 +1,5 @@
+ ____               _____                  __         
+|_  /___ _ _  ___  |_   _| _ __ _ _ _  ___/ _|___ _ _ 
+ / // _ \ ' \/ -_)   | || '_/ _` | ' \(_-<  _/ -_) '_|
+/___\___/_||_\___|   |_||_| \__,_|_||_/__/_| \___|_|  
+Online Test of a zone transfer that will attempt to get all DNS records for a target domain. The zone transfer will be tested against all name servers (NS) for a domain.

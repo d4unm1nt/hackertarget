@@ -1,0 +1,5 @@
+ ___  _  _ ___   _    ___   ___  _  ___   _ ___ 
+|   \| \| / __| | |  / _ \ / _ \| |/ / | | | _ \
+| |) | .` \__ \ | |_| (_) | (_) | ' <| |_| |  _/
+|___/|_|\_|___/ |____\___/ \___/|_|\_\\___/|_|  
+Use this DNS lookup tool to easily view the standard DNS records for a domain.
